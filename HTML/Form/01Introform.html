@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="Center">Form Introdution</h1>
+    <p>Form Will Helps to send data to server</p>
+    <p>there are 2 method of form</p>
+    <ol>
+        <li>GET</li>
+        <li>POST</li>
+    </ol>
+<hr>
+<br><br>
+
+<h2>1} GET method</h2>
+<p>GET method send data to server </p>
+<p>Less secure</p>
+<p>Get Mainly use for searching</p>
+<p>Get default method in form   </p>
+
+<br><br>
+
+<h2>2} Post Method</h2>
+<p>POST Method sending data without using URL</p>
+<P>secure</P>
+<p>No Limitation</p>
+<p>support any of file uploding</p>
+<p>not able to bookmark</p>
+
+
+<hr>
+<form method="post">
+        <table>
+            <tr>
+                <td><label for="">User Name</label></td>
+                <td><input type="text" name="username" id=""></td>
+            </tr>           
+            <tr>
+                <td><label for="">Password</label></td>
+                <td><input type="password" name="Password" id=""></td>
+            </tr>
+            <hr>
+            <tr>
+                <td><label for="Gender">Gender</label></td>
+                <td>
+                <input type="radio" name="Gender" id="male"><label for="male">male</label>
+                <input type="radio" name="Gender" id="Female"><label for="Female">Female</label>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="">Hobbies</label></td>
+                <td>
+                    <input type="checkbox" name="chk[]" value="Reading" id="Reading"><label for="Reading">Reading</label>
+                    <input type="checkbox" name="chk[]" value="Cricket" id="Cricket"><label for="Cricket">Cricket</label>
+                    <input type="checkbox" name="chk[]" value="Travelling" id="Travelling"><label for="Travelling">Travelling</label>
+                </td>
+                <tr>
+                    <td><label for="">Profile Pic</label></td>
+                    <td>
+                        <input type="file" name="prod_pic" id="" accept="image/*">
+                    </td>
+                </tr>
+                <tr>
+                    <td><button type="submit">Submit</button>
+                    <td><button type="reset">reset</button>
+                    <td>                        
+                    </td>
+                </tr>
+            </tr>
+        </table>
+    </form>
+</form>
+
+    
+
+    
+    
+    
+</body>
+</html>

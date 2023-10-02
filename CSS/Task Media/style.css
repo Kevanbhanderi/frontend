@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+ }
+
+body{
+    overflow-x: hidden;
+}
+img{
+    width: 100%;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap ;
+    margin-top: 15px;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.js{
+    justify-content: space-around;
+    justify-content: space-evenly;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+div[class*="col"] {
+    padding-left: 15px;
+    padding-right:15px;
+}
+.col{
+    flex: 1 0 0%;
+}
+.col-20{
+    width: 100;
+}

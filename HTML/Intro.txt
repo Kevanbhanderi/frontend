@@ -1,0 +1,60 @@
+WEB
+all the public websites or pages that users can access on their local computers and other devices through the internet
+
+WWW
+World Wide Web
+
+BROWSER
+A web browser is an application for accessing websites
+
+Addressbar 
+address bar is the element that shows the current websites
+
+Titlebar
+A title bar is a graphical user interface (GUI) component of a software application or Web page
+
+HTTP/HTTPS
+HTTP-HyperText Transfer Protocol
+HTTP is fast because of its simplicity, but it does not provide security when data is exchanged. This is because all the data is transmitted in plain text and nothing is encrypted at all.
+HTTPS-Hypertext Transfer Protocol Secure
+primary way to securely send data from a web browser to a website
+
+URL/URI
+URL-Uniform Resource Locator
+Onetype of web address
+
+URI-Uniform Resource Identifier
+unique sequence of characters that identifies a logical or physical resource used by web technologies
+
+Extension
+Extensions tell your computer which application created or can open the file and which icon to use for the file
+
+Editor
+software programs that enable the user to create and edit text files
+
+Network
+A network, in computing, is a group of two or more devices or nodes that can communicate
+
+TCP/IP
+Transmission Control Protocol
+computing devices to exchange messages over a network
+IP
+Internet Protocol
+
+Hosting
+A web server that stores and transmits the data for one or more websites
+
+Domain
+The unique name that appears after the @ sign in email addresses, and after www in web addresses
+
+SERVER
+Servers are computers that run services to serve the needs of other computers
+
+Client
+A client is somebody who buys goods or pays for services. Companies and other organizations may also be clients
+
+
+ 
+
+
+
